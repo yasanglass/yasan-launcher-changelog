@@ -1,9 +1,10 @@
 # YASAN Launcher DEV Changelog
 
-## 21.12-DEV-322
+## Unreleased
 
 - Update Coil to v1.4.0 from v1.3.2 (fixes cross-fade bug?).
 - Changelog files are now available on https://github.com/yasandev/yasan-launcher-changelog.
+- No longer go home on restart.
 
 ## 21.12-DEV-321
 
