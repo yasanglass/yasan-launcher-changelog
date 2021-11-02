@@ -184,7 +184,7 @@
 
 ## 21.08-NEXT-282
 
-- <s>Fix the bug where the initial value of apps status in folders edit screen was incorrect.</s>
+- ~~Fix the bug where the initial value of apps status in folders edit screen was incorrect.~~
 - Fix layout corners on Premium screen when premium is enabled.
 - Fix About screen's live developer information not being able to show failures.
 - Home swipe actions are 3 times less sensitive now.
@@ -342,8 +342,8 @@
 ## 21.08-NEXT-259
 
 - Improve Dashboard spacer sizes.
-- <s>Added a progress bar when the shortcuts are loading.</s>
-- Compose version 1.0.0-rc01 <s>(should fix the keyboard issue on Search)</s>.
+- ~~Added a progress bar when the shortcuts are loading.~~
+- Compose version 1.0.0-rc01 ~~(should fix the keyboard issue on Search)~~.
 
 ## 21.07-NEXT-258
 
