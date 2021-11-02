@@ -3,8 +3,9 @@
 ## Unreleased
 
 - Update Coil to v1.4.0 from v1.3.2 (fixes cross-fade bug?).
-- Changelog files are now available on https://github.com/yasandev/yasan-launcher-changelog.
-- No longer go home on restart.
+- Changelog files are now available on <https://github.com/yasandev/yasan-launcher-changelog>.
+- Fix global events not being triggered if the new event is the same as the previous event.
+- Major improvements on how home button clicks are handled, this will fix some weird home button interactions that could be confusing/unexpected.
 
 ## 21.12-DEV-321
 
