@@ -3,7 +3,7 @@
 ## Unreleased
 
 - Update Coil to v1.4.0 from v1.3.2 (~~fixes cross-fade bug?~~).
-- Changelog files are now available on <https://github.com/yasandev/yasan-launcher-changelog>.
+- Changelog data is now fetched from <https://github.com/yasandev/yasan-launcher-changelog>.
 - Fix global events not being triggered if the new event is the same as the previous event.
 - Major improvements & optimizations on how home button clicks are handled, this will fix some weird behaviors.
 - Fix long clicking apps on Search launching the app information screen instead of opening the app options bottom sheet.
