@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Fixed warning UI being blank somehow (previously used on Color picker screen).
+- Now if the launcher is not set as the default launcher a warning will be shown on the main options screen.
+- Segment titles on Color picker screen no longer have the extra spacer.
+
 ## 21.12-DEV-322
 
 - Update Coil to v1.4.0 from v1.3.2 (~~fixes cross-fade bug?~~).
