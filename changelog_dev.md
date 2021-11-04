@@ -5,6 +5,8 @@
 - Fixed warning UI being blank somehow (previously used on Color picker screen).
 - Now if the launcher is not set as the default launcher a warning will be shown on the main options screen.
 - Segment titles on Color picker screen no longer have the extra spacer.
+- Removed Advanced options screen and the "Change default home app" button is now moved to the main options screen for easier access.
+- Added the option to show YASAN Launcher logo & version name on the bottom of Dashboard (disabled by default).
 
 ## 21.12-DEV-322
 
