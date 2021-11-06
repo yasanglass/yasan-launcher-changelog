@@ -7,6 +7,7 @@
 - Segment titles on Color picker screen no longer have the extra spacer.
 - Removed Advanced options screen and the "Change default home app" button is now moved to the main options screen for easier access.
 - Added the option to show YASAN Launcher logo & version name on the bottom of Dashboard (disabled by default).
+- Update to Compose v1.0.5 (from v1.0.4).
 
 ## 21.12-DEV-322
 
