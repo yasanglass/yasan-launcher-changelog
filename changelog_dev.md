@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-323
 
 - Fixed warning UI being blank somehow (previously used on Color picker screen).
 - Now if the launcher is not set as the default launcher a warning will be shown on the main options screen.
