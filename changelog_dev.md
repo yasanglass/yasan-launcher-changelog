@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Added App Hide options on App options sheet (only available for Premium users).
+
 ## 21.12-DEV-323
 
 - Fixed warning UI being blank somehow (previously used on Color picker screen).
