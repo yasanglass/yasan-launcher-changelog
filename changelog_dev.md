@@ -4,6 +4,7 @@
 
 - Fix App Options bottom spacer color.
 - Apps clickable area on Drawer (Grid), Dashboard Folders, Search & Home is now rounded.
+- Back buttons clickable area on Drawer & Dashboard is now rounded.
 
 ## 21.12-DEV-325
 
