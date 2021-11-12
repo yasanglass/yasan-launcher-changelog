@@ -6,6 +6,7 @@
 - Added Folder options to App Options to easily add/remove apps to/from folders.
 - Long clicking Dashboard shortcuts now opens App Options.
 - App Hide as a feature cannot be toggled anymore.
+- Some adjustments on when folder & dashboard shortcut data is refreshed.
 
 ## 21.12-DEV-323
 
