@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-325
 
 - Added App Pin switch to App Options (only available to Premium users).
 - New "New Folder" button on App Options which opens the new folder screen and adds the app automatically on start.
