@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Fix drawer apps not being updated when an app is added/removed to/from a folder from App Options.
+
 ## 21.12-DEV-324
 
 - Added App Hide options to App Options (only available for Premium users).
