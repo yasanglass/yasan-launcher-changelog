@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Fix installed text on Changelog screen.
+
 ## 21.12-DEV-327
 
 - Folders segment on App Options is now visible even if you have not created a folder yet.
