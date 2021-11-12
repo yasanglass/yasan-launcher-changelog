@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Fix App Options bottom spacer color.
+
 ## 21.12-DEV-325
 
 - Added App Pin switch to App Options (only available to Premium users).
