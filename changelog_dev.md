@@ -2,14 +2,19 @@
 
 ## Unreleased
 
+- Added App Pin switch to App Options (only available to Premium users).
+- New "New Folder" button on App Options which opens the new folder screen and adds the app automatically on start.
+- App Pin as a feature cannot be toggled anymore (its always enabled if you are a premium user).
 - Fix drawer apps not being updated when an app is added/removed to/from a folder from App Options.
+- Fix App Pin list items always using Rubik font.
+- Fix App Pin list items paddings.
 
 ## 21.12-DEV-324
 
-- Added App Hide options to App Options (only available for Premium users).
+- Added App Hide options to App Options (only available to Premium users).
 - Added Folder options to App Options to easily add/remove apps to/from folders.
 - Long clicking Dashboard shortcuts now opens App Options.
-- App Hide as a feature cannot be toggled anymore.
+- App Hide as a feature cannot be toggled anymore (its always enabled if you are a premium user).
 - Some adjustments on when folder & dashboard shortcut data is refreshed.
 
 ## 21.12-DEV-323
