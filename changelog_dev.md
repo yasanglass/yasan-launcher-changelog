@@ -5,6 +5,8 @@
 - Fix App Options bottom spacer color.
 - Apps clickable area on Drawer (Grid), Dashboard Folders, Search & Home is now rounded.
 - Back buttons clickable area on Drawer & Dashboard is now rounded.
+- If the other version of YASAN Launcher is installed the version information is now visible on Changelog screen.
+- Apps version name & code is now visible on the bottom of App Options.
 
 ## 21.12-DEV-325
 
