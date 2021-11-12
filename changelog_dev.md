@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-326
 
 - Fix App Options bottom spacer color.
 - Apps clickable area on Drawer (Grid), Dashboard Folders, Search & Home is now rounded.
