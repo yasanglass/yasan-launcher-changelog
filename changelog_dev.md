@@ -1,8 +1,11 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-324
 
-- Added App Hide options on App options sheet (only available for Premium users).
+- Added App Hide options to App Options (only available for Premium users).
+- Added Folder options to App Options to easily add/remove apps to/from folders.
+- Long clicking Dashboard shortcuts now opens App Options.
+- App Hide as a feature cannot be toggled anymore.
 
 ## 21.12-DEV-323
 
