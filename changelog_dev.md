@@ -1,5 +1,11 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Folders segment on App Options is now visible even if you have not created a folder yet.
+- App Options footer spacer & padding is now increased.
+- Fix multiples of an app being added to a folder if the folder was created from App Options. 
+
 ## 21.12-DEV-326
 
 - Fix App Options bottom spacer color.
