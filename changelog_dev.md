@@ -3,6 +3,8 @@
 ## Unreleased
 
 - Fix installed text on Changelog screen.
+- Added a spacer between Show Branding & Folders options on Dashboard Options screens.
+- Dashboard branding is now enabled by default.
 
 ## 21.12-DEV-327
 
