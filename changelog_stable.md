@@ -4,7 +4,7 @@
 
 - Major bug fixes & performance improvements across the board.
 - New changelog screen.
-- New app options sheet.
+- New app options bottom sheet.
 - New "Uninstall" app option.
 - Cross-fade support for app icons.
 - Option screens have received many adjustments to be easier to understand.
