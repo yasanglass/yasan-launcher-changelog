@@ -6,6 +6,7 @@
 - Added a spacer between Show Branding & Folders options on Dashboard Options screens.
 - Dashboard branding is now enabled by default.
 - Optimized how & when folders & app shortcuts are updated.
+- Folder switches are now replaces with checkboxes on App Options.
 
 ## 21.12-DEV-327
 
