@@ -1,12 +1,14 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-328
 
 - Fix installed text on Changelog screen.
 - Added a spacer between Show Branding & Folders options on Dashboard Options screens.
 - Dashboard branding is now enabled by default.
 - Optimized how & when folders & app shortcuts are updated.
 - Folder switches are now replaces with checkboxes on App Options.
+- Added "Advanced App Options" to premium features list on Premium screen.
+- New Feedback screen to easily create issues on <https://github.com/yasandev/yasan-launcher-issues> repository for bug reports and feature requests (please do not create issues until 21.12 is live as stable).
 
 ## 21.12-DEV-327
 
