@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## 21.12-DEV-330
+
+- Fix the launcher crashing sometimes on some devices when trying to load app icons [HOTFIX].
+
 ## 21.12-DEV-328
 
 - Fix installed text on Changelog screen.
