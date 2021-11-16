@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## 21.11-329
+
+- Fix the launcher crashing sometimes on some devices when trying to load app icons.
+
 ## 21.11-320
 
 - Major bug fixes & performance improvements across the board.
