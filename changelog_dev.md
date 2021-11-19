@@ -2,7 +2,7 @@
 
 ## 21.12-DEV-330
 
-- Fix the launcher crashing sometimes on some devices when trying to load app icons [HOTFIX].
+- Fix the launcher crashing sometimes on some devices when trying to load app icons [Merged to Stable].
 
 ## 21.12-DEV-328
 
