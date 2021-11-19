@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## 21.11-331
+
+- Changelog data is now fetched from <https://github.com/yasandev/yasan-launcher-changelog>.
+
 ## 21.11-329
 
 - Fix the launcher crashing sometimes on some devices when trying to load app icons.
