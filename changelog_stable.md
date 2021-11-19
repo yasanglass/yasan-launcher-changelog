@@ -27,7 +27,7 @@
 
 ## 21.09-301
 
-- Fix crash when loading AI performance data if you previously had a very old version of the launcher installed. 
+- Fix crash when loading AI performance data if you previously had a very old version of the launcher installed.
 
 ## 21.09-300
 
