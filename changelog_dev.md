@@ -3,6 +3,7 @@
 ## Unreleased
 
 - The spacer below app shortcuts is now larger (6g from 2g).
+- App shortcuts are now sorted by their rank.
 
 ## 21.12-DEV-332
 
