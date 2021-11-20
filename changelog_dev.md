@@ -8,6 +8,7 @@
 - Sliders can now have a custom name for their min & max value.
 - Slider value change is now animated.
 - Fix float sliders title font weight not matching integer slider title font weight.
+- App Options is now called App Options Menu for clarity.
 
 ## 21.12-DEV-332
 
