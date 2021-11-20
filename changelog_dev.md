@@ -4,6 +4,7 @@
 
 - New "Long Labels" option on App Options Menu.
 - Fix crash when wallpaper drawable cannot be loaded due to reasons other than missing permission.
+- Improved the text on Dashboard's branding footer switch.
 
 ## 21.12-DEV-333
 
