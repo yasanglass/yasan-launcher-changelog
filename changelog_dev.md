@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- The spacer below app shortcuts is now larger (6g from 2g).
+
 ## 21.12-DEV-332
 
 - App shortcut support!
