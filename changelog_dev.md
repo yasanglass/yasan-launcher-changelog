@@ -4,6 +4,8 @@
 
 - The spacer below app shortcuts is now larger (6g from 2g).
 - App shortcuts are now sorted by their rank.
+- Sliders can now have a custom name for their max value.
+- Slider value change is now animated.
 
 ## 21.12-DEV-332
 
