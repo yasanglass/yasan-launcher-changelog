@@ -6,7 +6,7 @@
 - The spacer below app shortcuts is now larger (6g from 2g).
 - App shortcuts are now sorted by their rank.
 - Sliders can now have a custom name for their min & max value.
-- Slider value change is now animated.
+- Sliders' value changes are now animated.
 - Fix float sliders title font weight not matching integer slider title font weight.
 - App Options is now called App Options Menu for clarity.
 
