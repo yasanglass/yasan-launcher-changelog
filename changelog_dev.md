@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-333
 
 - New App Options Menu screen that lets you fully customize it.
 - The spacer below app shortcuts is now larger (6g from 2g).
