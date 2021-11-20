@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- New "Long Labels" option on App Options Menu.
+
 ## 21.12-DEV-333
 
 - New App Options Menu screen that lets you fully customize it.
