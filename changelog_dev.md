@@ -1,5 +1,15 @@
 # YASAN Launcher DEV Changelog
 
+## 21.12-DEV-332
+
+- App shortcut support!
+
+Notes:
+
+- Requires Android 7.1+.
+- Requires the launcher to be the default home app.
+- Potentially bugged in some scenarios, please report.
+
 ## 21.12-DEV-330
 
 - Fix the launcher crashing sometimes on some devices when trying to load app icons [Merged to Stable].
