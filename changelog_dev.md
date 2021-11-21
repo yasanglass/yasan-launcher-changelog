@@ -5,6 +5,7 @@
 - New "Long Labels" option on App Options Menu.
 - Fix crash when wallpaper drawable cannot be loaded due to reasons other than missing permission.
 - Improved the text on Dashboard's branding footer switch.
+- Fix App Options Menu crashing sometimes when trying to check if the app can be uninstalled or not.
 
 ## 21.12-DEV-333
 
