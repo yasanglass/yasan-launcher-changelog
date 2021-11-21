@@ -7,6 +7,7 @@
 - Improved the text on Dashboard's branding footer switch.
 - Fix App Options Menu crashing sometimes when trying to check if the app can be uninstalled or not.
 - (Potentially) fix launcher crashing sometimes when trying to navigate back to the Home screen.
+- Going back to home now always brings you back to the main Home screen and not the previously open page of Home Pager (Dashboard, Home & Drawer).
 
 ## 21.12-DEV-333
 
