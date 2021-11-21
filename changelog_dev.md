@@ -3,8 +3,8 @@
 ## Unreleased
 
 - New "Long Labels" option on App Options Menu.
-- Fix crash when wallpaper drawable cannot be loaded due to reasons other than missing permission.
-- Improved the text on Dashboard's branding footer switch.
+- Fix crash when wallpaper drawable cannot be loaded due to reasons other than missing permissions.
+- Improved the Switch title for Branding Footer on Dashboard Options.
 - Fix App Options Menu crashing sometimes when trying to check if the app can be uninstalled or not.
 - (Potentially) fix launcher crashing sometimes when trying to navigate back to the Home screen.
 - Going back to home now always brings you back to the main Home screen and not the previously open page of Home Pager (Dashboard, Home & Drawer).
