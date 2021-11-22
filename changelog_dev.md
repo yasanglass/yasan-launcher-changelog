@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-334
 
 - New "Long Labels" option on App Options Menu.
 - Fix crash when wallpaper drawable cannot be loaded due to reasons other than missing permissions.
