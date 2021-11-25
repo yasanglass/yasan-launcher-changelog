@@ -2,7 +2,7 @@
 
 ## 21.12-DEV-335
 
-- Major Compose related library updates.
+- Major Compose-related library updates.
 - Now launching or closing any screen is logged into Firebase (fully anonymous as previous events & only used to learn how users use the launcher. An opt-out option might be added later).
 
 ## 21.12-DEV-334
