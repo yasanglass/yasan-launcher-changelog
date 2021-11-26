@@ -6,6 +6,7 @@
 - App shortcut launches are now logged into Firebase as events (does not contain what app was launched & still fully anonymous).
 - Premium Pop-up is now converted into a bottom sheet (used to be a dialog) & its style is adjusted a bit.
 - Fix bottom sheet navigation events not being logged into Firebase.
+- Fix non-premium users being able to sometimes enable app pin for apps from App Pin options screen (only the switches are bugged and it does not effect the actual pin behavior).
 
 ## 21.12-DEV-335
 
