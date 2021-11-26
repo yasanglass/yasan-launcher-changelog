@@ -6,11 +6,12 @@
 - App shortcut launches are now logged into Firebase as events (does not contain what app was launched & still fully anonymous).
 - Premium Pop-up is now converted into a bottom sheet (used to be a dialog) & its style is adjusted a bit.
 - Fix bottom sheet navigation events not being logged into Firebase.
-- Fix non-premium users being able to sometimes enable app pin for apps from App Pin options screen (only the switches are bugged and it does not effect the actual pin behavior).
+- Fix non-premium users being able to sometimes enable app pin for apps from App Pin options screen (only the switches are bugged and it does not affect the actual pin behavior).
 - Premium features list style is adjusted.
 - Removed 'Advanced App Options Menu' from premium features list.
 - Optimizations on how AI events are recorded.
 - Now when app hide on home or app pin are toggled for an app from App Options Menu and the other one is already enabled, a warning will show about app hide overriding app pin.
+- Adjusted version information texts' layout on App Options Menu.
 
 ## 21.12-DEV-335
 
