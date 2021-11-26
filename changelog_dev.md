@@ -1,5 +1,11 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- App shortcut launches now affect AI data (currently treated as the same AI event as launching an app normally).
+- App shortcut launches are now logged into Firebase as events (does not contain what app was launched & still fully anonymous).
+- Premium Dialog is now converted into a bottom sheet & its style is adjusted a bit.
+
 ## 21.12-DEV-335
 
 - Major Compose-related library updates.
