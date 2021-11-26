@@ -5,7 +5,7 @@
 - App shortcut launches now affect AI data (currently treated as the same AI event as launching an app normally).
 - App shortcut launches are now logged into Firebase as events (does not contain what app was launched & still fully anonymous).
 - Premium Pop-up is now converted into a bottom sheet (used to be a dialog) & its style is adjusted a bit.
-- Fix bottom navigation sheets navigation events not being logged into Firebase.
+- Fix bottom sheet navigation events not being logged into Firebase.
 
 ## 21.12-DEV-335
 
