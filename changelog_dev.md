@@ -1,5 +1,10 @@
 # YASAN Launcher DEV Changelog
 
+## 21.12-DEV-337 (RC-1)
+
+- News support.
+- Launching news or social links from About screen is now logged into Firebase.
+
 ## 21.12-DEV-336
 
 - App shortcut launches now affect AI data (currently treated as the same AI event as launching an app normally).
