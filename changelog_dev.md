@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 21.12-DEV-336
 
 - App shortcut launches now affect AI data (currently treated as the same AI event as launching an app normally).
 - App shortcut launches are now logged into Firebase as events (does not contain what app was launched & still fully anonymous).
