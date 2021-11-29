@@ -1,5 +1,16 @@
 # YASAN Launcher Changelog
 
+## 21.12-338
+
+- App shortcut support.
+- Improved App Options Menu for easier app management.
+- App Options menu customization support.
+- New Feedback screen.
+- News support.
+- Many bug fixes & performance improvements.
+
+More information available on yasandev.medium.com
+
 ## 21.11-331
 
 - Changelog data is now fetched from <https://github.com/yasandev/yasan-launcher-changelog>.
