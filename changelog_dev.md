@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Updated the folder icons (there are now 121 folder icons available).
+
 ## 22.01-DEV-340
 
 - Custom folder icon support (currently supports 101 icons)
