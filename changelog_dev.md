@@ -1,8 +1,9 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 22.01-DEV-343
 
 - Updated the folder icons (there are now 121 folder icons available).
+- Fixed wallpaper palette generation always being visible (Merged to stable on 21.12-342).
 
 ## 22.01-DEV-340
 
