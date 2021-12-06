@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## 21.12-342
+
+- Fixed wallpaper palette generation always being visible.
+
 ## 21.12-338
 
 - App shortcut support.
