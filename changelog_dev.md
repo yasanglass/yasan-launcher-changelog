@@ -9,6 +9,7 @@
 
 - Custom folder icon support (currently supports 101 icons)
 - The launcher picker pop up is now improved and will not open default app settings anymore.
+- [EASTER EGG].
 
 ## 21.12-DEV-337 (RC-1)
 
