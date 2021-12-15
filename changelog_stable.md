@@ -2,7 +2,7 @@
 
 ## 21.12-342
 
-- Fixed wallpaper palette generation always being visible.
+- Fixed wallpaper palette generation warning always being visible.
 
 ## 21.12-338
 
