@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Minor optimizations on New Folder screen.
+
 ## 22.01-DEV-343
 
 - Updated the folder icons (there are now 121 folder icons available).
