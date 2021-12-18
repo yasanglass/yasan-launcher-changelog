@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 22.01-DEV-344
 
 - Fix custom folder icon not changing when creating a new folder.
 - Optimizations on how folder icons are handled.
