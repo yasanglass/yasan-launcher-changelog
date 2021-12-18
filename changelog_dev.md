@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Fix custom folder icon not changing when creating a new folder.
+- Optimizations on how folder icons are handled.
 - Minor optimizations on New Folder screen.
 
 ## 22.01-DEV-343
