@@ -1,7 +1,9 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 22.01-DEV-345
 
+- Major improvements on Dashboard's greeting system.
+- 19 new greeting texts (most of them are very rare).
 - Fix "App not found" text not having any padding on App Options Menu.
 
 ## 22.01-DEV-344
