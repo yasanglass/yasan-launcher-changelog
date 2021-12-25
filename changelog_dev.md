@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Fix "App not found" text not having any padding on App Options Menu.
+
 ## 22.01-DEV-344
 
 - Fix custom folder icon not changing when creating a new folder.
