@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Fixed Pride Night greetings not working.
+
 ## 22.01-DEV-345
 
 - Major improvements on Dashboard's greeting system.
