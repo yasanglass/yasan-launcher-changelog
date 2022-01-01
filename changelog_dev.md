@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Fixed Pride Night greetings not working.
+- Fixed horizontal padding on Intro's app boost page.
 
 ## 22.01-DEV-345
 
