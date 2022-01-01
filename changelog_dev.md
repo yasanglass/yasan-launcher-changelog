@@ -5,6 +5,7 @@
 - Fixed Pride Night greetings not working.
 - Fixed horizontal padding on Intro's app boost page.
 - Fixed App icon placeholders on Search screen not having the correct shape.
+- Fixed pagers causing crash on configuration change (most common crash currently & is technically a Compose bug).
 
 ## 22.01-DEV-345
 
