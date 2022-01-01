@@ -4,6 +4,7 @@
 
 - Fixed Pride Night greetings not working.
 - Fixed horizontal padding on Intro's app boost page.
+- Fixed App icon placeholders on Search screen not having the correct shape.
 
 ## 22.01-DEV-345
 
