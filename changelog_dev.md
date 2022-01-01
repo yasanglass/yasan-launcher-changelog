@@ -1,11 +1,16 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 22.01-DEV-346 (RC-1)
 
+- App search can now find apps based on their acronym (will be toggalble later, now its always on).
+- Major improvements on the basic app search algorithm.
+- App package name search is now only done if there are no results found previously (and is enabled).
 - Fixed Pride Night greetings not working.
 - Fixed horizontal padding on Intro's app boost page.
 - Fixed App icon placeholders on Search screen not having the correct shape.
-- Fixed pagers causing crash on configuration change (most common crash currently & is technically a Compose bug).
+- Fixed pagers causing crash on configuration change (most common crash currently).
+- Fixed search results not being updated after apps are modified (app uninstall).
+- Optmized Search screen.
 
 ## 22.01-DEV-345
 
