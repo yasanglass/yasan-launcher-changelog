@@ -1,8 +1,12 @@
 # YASAN Launcher DEV Changelog
 
+## 22.01-DEV-347 (RC-2)
+
+- Fix crash when the launcher is being destroyed.
+
 ## 22.01-DEV-346 (RC-1)
 
-- App search can now find apps based on their acronym (will be toggalble later, now its always on).
+- App search can now find apps based on their acronym (will be toggleable later, now its always on).
 - Major improvements on the basic app search algorithm.
 - App package name search is now only done if there are no results found previously (and is enabled).
 - Fixed Pride Night greetings not working.
