@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## 22.01-DEV-349 (RC-4)
+
+- Fix app options menu not closing after an app shortcut is used.
+
 ## 22.01-DEV-348 (RC-3)
 
 - Fixed Search screen not closing after an app is launched.
@@ -11,7 +15,7 @@
 
 ## 22.01-DEV-346 (RC-1)
 
-- App search can now find apps based on their acronym (will be toggleable later, now its always on).
+- App search can now find apps based on their acronym (will be toggle-able later, now its always on).
 - Major improvements on the basic app search algorithm.
 - App package name search is now only done if there are no results found previously (and is enabled).
 - Fixed Pride Night greetings not working.
