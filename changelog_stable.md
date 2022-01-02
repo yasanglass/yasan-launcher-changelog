@@ -1,5 +1,13 @@
 # YASAN Launcher Changelog
 
+
+## 22.01-350
+
+- Custom folder icon support with 100+ icon options.
+- Major app search algorithm improvements (including the ability to search apps by their acronym).
+- Improved Dashboard Greetings functionality.
+- Many major bug fixes & performance improvements.
+
 ## 21.12-342
 
 - Fixed wallpaper palette generation warning always being visible.
