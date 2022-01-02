@@ -1,8 +1,13 @@
 # YASAN Launcher DEV Changelog
 
+## 22.01-DEV-348 (RC-3)
+
+- Fixed Search screen not closing after an app is launched.
+- Misc. search optimizations.
+
 ## 22.01-DEV-347 (RC-2)
 
-- Fix crash when the launcher is being destroyed.
+- Fixed crash when the launcher is being destroyed.
 
 ## 22.01-DEV-346 (RC-1)
 
@@ -14,7 +19,7 @@
 - Fixed App icon placeholders on Search screen not having the correct shape.
 - Fixed pagers causing crash on configuration change (most common crash currently).
 - Fixed search results not being updated after apps are modified (app uninstall).
-- Optmized Search screen.
+- Optimized Search screen.
 
 ## 22.01-DEV-345
 
