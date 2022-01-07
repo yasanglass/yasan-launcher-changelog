@@ -1,5 +1,8 @@
 # YASAN Launcher Changelog
 
+## 22.01-351
+
+- Fixed crashes on premium screen for some users (hotfix).
 
 ## 22.01-350
 
