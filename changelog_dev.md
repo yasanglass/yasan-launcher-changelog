@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## 22.02-DEV-352
+
+- Fixed crashes on premium screen for some users (hotfix; merged into stable 22.01-351).
+
 ## 22.01-DEV-349 (RC-4)
 
 - Fix app options menu not closing after an app shortcut is used.
