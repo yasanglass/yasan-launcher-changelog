@@ -1,6 +1,6 @@
 # YASAN Launcher Changelog
 
-## Unreleased
+## 22.01-353
 
 - Fixed crashes on premium screen when prices fail to load (hotfix).
 
