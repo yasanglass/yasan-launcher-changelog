@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Fixed crashes when there are concurrent database modifications happening.
+
 ## 22.02-DEV-354
 
 - Moved Greeting toggle to the main Dashboard options screen.
