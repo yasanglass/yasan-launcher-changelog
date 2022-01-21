@@ -1,5 +1,10 @@
 # YASAN Launcher DEV Changelog
 
+
+## Unreleased
+
+- Bottom sheets now have rounded corners similar to the rest of the launcher UI.
+
 ## 22.02-DEV-355
 
 - New Dashboard Folder style options! You can now choose between list & grid folder styles!
