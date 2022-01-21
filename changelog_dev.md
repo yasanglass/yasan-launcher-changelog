@@ -1,7 +1,8 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 22.02-DEV-355
 
+- New Dashboard Folder style options! You can now choose between list & grid folder styles!
 - Fixed crashes when there are concurrent database modifications happening.
 
 ## 22.02-DEV-354
