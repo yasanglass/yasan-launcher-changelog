@@ -1,9 +1,9 @@
 # YASAN Launcher DEV Changelog
 
-
-## Unreleased
+## 22.02-DEV-356 (RC-1)
 
 - Bottom sheets now have rounded corners similar to the rest of the launcher UI.
+- Improved folder's grid layout (more visible on Tablets).
 - Fix the launcher's icon being visible in itself.
 
 ## 22.02-DEV-355
