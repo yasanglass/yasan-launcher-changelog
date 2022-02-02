@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## 22.03-DEV-358
+
+- Fixed apps not being added to launcher when the launcher is not running (merged into stable 22.02-357).
+
 ## 22.02-DEV-356 (RC-1)
 
 - Bottom sheets now have rounded corners similar to the rest of the launcher UI.
