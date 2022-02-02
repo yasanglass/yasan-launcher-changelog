@@ -1,5 +1,10 @@
 # YASAN Launcher Changelog
 
+## 22.02-357
+
+- New Folder Styles! You can now customize how your apps are shown on the Dashboard. Your options are the grid (new) & list styles.
+- Miscellaneous bug fixes.
+
 ## 22.01-353
 
 - Fixed crashes on premium screen when prices fail to load (hotfix).
