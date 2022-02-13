@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## 22.03-DEV-359
+
+- Update to Compose 1.1.0 (and other Compose related dependencies).
+
 ## 22.03-DEV-358
 
 - Fixed apps not being added to launcher when the launcher is not running (merged into stable 22.02-357).
