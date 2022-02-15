@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- Fixed being too large due to changes on Compose 1.1.0.
+
 ## 22.03-DEV-361
 
 - Search screen's content is now on top (due to the keyboard issue in compose not being fixed after about a year).
