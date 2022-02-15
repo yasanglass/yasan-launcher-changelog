@@ -1,6 +1,12 @@
 # YASAN Launcher DEV Changelog
 
-## 22.03-DEV-359
+## 22.03-DEV-361
+
+- Search screen's content is now on top (due to the keyboard issue in compose not being fixed after about a year).
+- Apps position changes are now animated on Search (apps being added or removed is not animated yet).
+- Migrated to YDK (YASAN Development Kit).
+
+## 22.03-DEV-359/360
 
 - Update to Compose 1.1.0 (and other Compose related dependencies).
 
