@@ -1,6 +1,6 @@
 # YASAN Launcher DEV Changelog
 
-## Unreleased
+## 22.03-DEV-362
 
 - Updated to Compose v1.1.1.
 - Fixed some paddings being too large due to changes on Compose v1.1.0+.
