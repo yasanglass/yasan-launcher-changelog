@@ -2,7 +2,8 @@
 
 ## Unreleased
 
-- Fixed some paddings being too large due to changes on Compose 1.1.0.
+- Updated to Compose v1.1.1.
+- Fixed some paddings being too large due to changes on Compose v1.1.0+.
 
 ## 22.03-DEV-361
 
