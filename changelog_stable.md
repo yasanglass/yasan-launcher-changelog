@@ -1,5 +1,10 @@
 # YASAN Launcher Changelog
 
+## 22.03-363
+
+- Major changes on the Search screen's UI.
+- Miscellaneous bug fixes & performance improvements.
+
 ## 22.02-357
 
 - New Folder Styles! You can now customize how your apps are shown on the Dashboard. Your options are the grid (new) & list styles.
