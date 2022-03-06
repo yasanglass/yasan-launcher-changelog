@@ -1,5 +1,9 @@
 # YASAN Launcher DEV Changelog
 
+## Unreleased
+
+- New font preview texts.
+
 ## 22.03-DEV-362
 
 - Updated to Compose v1.1.1.
