@@ -7,7 +7,7 @@
 - New font preview texts.
 - Fix padding sizes on New Folder screen, App Pin screen, App Hide screen.
 - Improved visibility toggle animations for some setting options.
-- Some experiemental internal icon loading features.
+- Some experimental internal icon loading features.
 
 ## 22.03-363
 
