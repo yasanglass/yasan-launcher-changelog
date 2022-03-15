@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Version naming system is back to semantic (X.Y.Z).
+- Adjusted some version related UIs to work with semantic versioning properly.
 - New font preview texts.
 
 ## 22.03-363
