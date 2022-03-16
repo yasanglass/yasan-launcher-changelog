@@ -1,8 +1,10 @@
 # YASAN Launcher Changelog
 
-## Unreleased
+## 0.8.1
 
-- Drawer-less feature.
+- New option to disable Drawer! When disabled, any app that is not in a folder is put in an automatically updated folder called "Other Apps".
+- New option to change the order of folders! You can access this option on: Options -> Dashboard -> Folders -> Up/Down buttons.
+- Major fixes & optmizations on Premium Screen and how it handles its error states.
 - Fixed About screen not showing the default data while fetching the latest data from the remote server.
 - Fixed latest LiveInformation (social links etc.) not being saved in the app.
 - Fixed About screen's developer segment not having a divider on the bottom.
