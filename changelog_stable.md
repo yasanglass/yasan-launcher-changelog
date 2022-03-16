@@ -1,5 +1,14 @@
 # YASAN Launcher Changelog
 
+## Unreleased
+
+- Drawer-less feature.
+- Fixed About screen not showing the default data while fetching the latest data from the remote server.
+- Fixed latest LiveInformation (social links etc.) not being saved in the app.
+- Fixed About screen's developer segment not having a divider on the bottom.
+- Removed Shop link from About screen.
+- Added YASAN logo to About screen.
+
 ## 0.8.0
 
 - Version naming system is back to semantic (X.Y.Z).
