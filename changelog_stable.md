@@ -10,6 +10,7 @@
 - Fixed About screen's developer segment not having a divider on the bottom.
 - Removed Shop link from About screen.
 - Added YASAN logo to About screen.
+- New animations on the intro pages.
 
 ## 0.8.0
 
