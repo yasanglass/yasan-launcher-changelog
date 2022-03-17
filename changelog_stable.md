@@ -4,6 +4,7 @@
 
 - Added the option to hide apps from Dashboard's Other Apps folder.
 - Fixed billing client not initilizing after the launcher is reopened from the background (resolves premium not being purchasable in some scenarios, please try again if you previously had issues).
+- Fixed home title bars sometimes not being centered vertically.
 
 ## 0.8.1
 
