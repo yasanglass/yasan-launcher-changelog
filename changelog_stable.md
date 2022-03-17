@@ -1,5 +1,10 @@
 # YASAN Launcher Changelog
 
+## 0.8.2
+
+- Added the option to hide apps from Dashboard's Other Apps folder.
+- Fixed billing client not initilizing after the launcher is reopened from the background (resolves premium not being purchasable in some scenarios, please try again if you previously had issues).
+
 ## 0.8.1
 
 - New option to disable Drawer! When disabled, any app that is not in a folder is put in an automatically updated folder called "Other Apps".
