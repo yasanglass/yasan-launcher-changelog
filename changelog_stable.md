@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## Unreleased
+
+- App Hide button's description now changes based on whether Drawer is enabled or not.
+
 ## 0.8.2
 
 - Added the option to hide apps from Dashboard's Other Apps folder.
