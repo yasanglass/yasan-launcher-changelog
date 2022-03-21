@@ -4,6 +4,7 @@
 
 - App Hide button's description now changes based on whether Drawer is enabled or not.
 - Fix app shortcuts icon not being loaded with the proper size for the device.
+- Changelog text is now rendered properly (still not perfect, but better).
 
 ## 0.8.2
 
