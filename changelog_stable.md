@@ -1,11 +1,11 @@
 # YASAN Launcher Changelog
 
-## Unreleased
+## 0.8.3
 
 - App Hide button's description now changes based on whether Drawer is enabled or not.
 - Fix app shortcuts icon not being loaded with the proper size for the device.
 - Changelog text is now rendered properly (still not perfect, but better).
-
+- Fixed drawer icon being shown when its disabled when buttons box position is on start/end/left/right of home box.
 ## 0.8.2
 
 - Added the option to hide apps from Dashboard's Other Apps folder.
