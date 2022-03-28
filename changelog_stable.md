@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+### Unreleased
+
+- Removed the option to choose your AI system. This is done to decrease unneeded complexity of how the AI system works internally and should make all AI actions run faster.
+
 ## 0.8.3
 
 - App Hide button's description now changes based on whether Drawer is enabled or not.
