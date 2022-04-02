@@ -1,6 +1,6 @@
 # YASAN Launcher Changelog
 
-### Unreleased
+## Unreleased
 
 - Removed the option to choose your AI system. This is done to decrease unneeded complexity of how the AI system works internally and should make all AI actions run faster.
 
@@ -10,6 +10,7 @@
 - Fix app shortcuts icon not being loaded with the proper size for the device.
 - Changelog text is now rendered properly (still not perfect, but better).
 - Fixed drawer icon being shown when its disabled when buttons box position is on start/end/left/right of home box.
+
 ## 0.8.2
 
 - Added the option to hide apps from Dashboard's Other Apps folder.
