@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Removed the option to choose your AI system. This is done to decrease unneeded complexity of how the AI system works internally and should make all AI actions run faster.
+- Removed the option to toggle cross-fade, always disabled now (until its fixed).
 
 ## 0.8.3
 
