@@ -8,7 +8,7 @@
 - Removed the option to toggle cross-fade, always disabled now (until its fixed).
 - Misc. image loading optimizations.
 - Fixed YASAN Logo being distorted on some screens.
-- Option descriptions now use dot sepeartor instead of comma.
+- Option descriptions now use a dot separator instead of a comma.
 - Removed markdown styling on Changelog screen (will be replaced with a better system soon).
 
 ## 0.8.3
