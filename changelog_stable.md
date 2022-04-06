@@ -9,6 +9,7 @@
 - Misc. image loading optimizations.
 - Fixed YASAN Logo being distorted on some screens.
 - Option descriptions now use dot sepeartor instead of comma.
+- Removed markdown styling on Changelog screen (will be replaced with a better system soon).
 
 ## 0.8.3
 
