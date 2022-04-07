@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## 0.8.5
+
+- Fixed some UI issues due to the new design introduced on v0.8.4.
+
 ## 0.8.4
 
 - Introducing Material 3 redesign with Material You (color palette) support.
