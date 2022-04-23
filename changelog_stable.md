@@ -3,7 +3,7 @@
 ## 0.8.6
 
 - New Search screen UI with contact search support.
-- Fixed Filled being shown as the default Buttons Box icon style.
+- Fixed Filled style being used as the default Buttons Box icon style.
 - Changed all icons style to Rounded (from Filled).
 - Adjusted rounded corner size on some UI components.
 - Major optimizations on how the Search Screen functions internally.
