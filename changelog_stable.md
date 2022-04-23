@@ -1,5 +1,13 @@
 # YASAN Launcher Changelog
 
+## 0.8.6
+
+- New Search screen UI with contact search support.
+- Fixed Filled being shown as the default Buttons Box icon style.
+- Changed all icons style to Rounded (from Filled).
+- Adjusted rounded corner size on some UI components.
+- Major optimizations on how the Search Screen functions internally.
+
 ## 0.8.5
 
 - Fixed some UI issues due to the new design introduced on v0.8.4.
