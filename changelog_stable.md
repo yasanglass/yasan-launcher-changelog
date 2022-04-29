@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## Unreleased
+
+- Fixed shortcut launch sometimes causing crashes.
+
 ## 0.8.7
 
 - Major optimizations on how the new search system works.
