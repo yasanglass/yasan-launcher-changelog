@@ -1,5 +1,12 @@
 # YASAN Launcher Changelog
 
+## 0.8.7
+
+- Major optimizations on how the new search system works.
+- App & contact search results now load separately and a loading indicator is shown when any of them is still being loaded (this is done due remove the unneeded delay of showing app results because contact results take longer to load).
+- Removed Search algorithm options.
+- Migrated the translation center to [Crowdin](https://crowdin.com/project/yasan-launcher) from OneSky. All translations are now get added to the app instantly. This change adds partial support for Chinese Simplified, Japanese, Persian & Swedish.
+
 ## 0.8.6
 
 - New Search screen UI with contact search support.
