@@ -2,7 +2,10 @@
 
 ## Unreleased
 
+- Major internal changes on how apps are loaded & handled internally (This is the initial step for Icon Pack support).
 - Fixed shortcut launch sometimes causing crashes.
+- Fixed App Options Menu not closing when back press.
+- Updated translations.
 
 ## 0.8.7
 
