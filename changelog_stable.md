@@ -1,11 +1,14 @@
 # YASAN Launcher Changelog
 
+## 0.8.9
+
+- Updated Japanese, Russian & Chinese Simplified translations.
+
 ## 0.8.8
 
 - Major internal changes on how apps are loaded & handled internally (This is the initial step toward Icon Pack support).
 - Fixed shortcut launch sometimes causes crashes.
 - Fixed App Options Menu not closing when back press.
-- Updated translations.
 
 ## 0.8.7
 
