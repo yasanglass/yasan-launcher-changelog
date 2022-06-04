@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## 0.8.11
+
+- Fix crashes.
+
 ## 0.8.10
 
 - Major internal changes to optimize how apps & their icons are loaded.
