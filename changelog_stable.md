@@ -1,5 +1,10 @@
 # YASAN Launcher Changelog
 
+## 0.8.10
+
+- Major internal changes to optimize how apps & their icons are loaded.
+- Fixed Home apps taking too long to load sometimes after v0.8.8 update.
+
 ## 0.8.9
 
 - Updated Japanese, Russian & Chinese Simplified translations.
