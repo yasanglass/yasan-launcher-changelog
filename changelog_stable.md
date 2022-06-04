@@ -3,7 +3,8 @@
 ## 0.8.10
 
 - Major internal changes to optimize how apps & their icons are loaded.
-- Fixed Home apps taking too long to load sometimes after v0.8.8 update.
+- Fixed Home apps taking too long to load sometimes after the v0.8.8 update.
+- Switches are now in Material 3 style.
 
 ## 0.8.9
 
