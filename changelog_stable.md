@@ -1,8 +1,12 @@
 # YASAN Launcher Changelog
 
+## 0.8.12
+
+- Fix misc. issues from the v0.8.10 update.
+
 ## 0.8.11
 
-- Fix crashes.
+- Fix crashes on old installs.
 
 ## 0.8.10
 
