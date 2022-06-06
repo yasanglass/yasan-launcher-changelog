@@ -1,5 +1,9 @@
 # YASAN Launcher Changelog
 
+## 0.8.14
+
+- Fix some icon loading issues.
+
 ## 0.8.13
 
 - Fix AI related issues from the v0.8.10 update.
